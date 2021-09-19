@@ -21,7 +21,7 @@ In this correlation-varience-L1.ipynb, there is also the implementation of machi
 
 # Implementation Details
 The feature selection methods are listed against the dataset which they are used upon
-A. TelecomData Set (given as TelecomData.zip) which is a collection od three other .csv files
+A. TelecomData Set (given as data.zip) which is a collection od three other .csv files
   1. All Wrapper methods
   2. Random Forest Feature importance method
 B. CarData Set (given as CarData.zip) which is a single .csv file with another .xlsx file for feature interpretation
